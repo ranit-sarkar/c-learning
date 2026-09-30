@@ -15,4 +15,3 @@
 - Comments
 - User input
 - Escape sequences
-- Practice Set (Chapter 1 Basics)
